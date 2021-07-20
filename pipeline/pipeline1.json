@@ -1,6 +1,12 @@
 {
 	"name": "pipeline1",
 	"properties": {
+		"parameters": {
+			"_Wait": {
+				"type": "string",
+				"defaultValue": "1"
+			}
+		},
 		"annotations": [
 			"Wait"
 		]
