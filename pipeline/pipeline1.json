@@ -3,7 +3,7 @@
 	"properties": {
 		"parameters": {
 			"_Wait": {
-				"type": "string",
+				"type": "bool",
 				"defaultValue": "1"
 			}
 		},
