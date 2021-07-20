@@ -1,6 +1,8 @@
 {
 	"name": "pipeline1",
 	"properties": {
-		"annotations": []
+		"annotations": [
+			"Wait"
+		]
 	}
 }
